@@ -1,6 +1,3 @@
-# Insights_Narrativas
-Este protótipo será uma base sólida que depois poderia ser expandida, substituindo o simulador de IA por um modelo de linguagem real (como um Llama 2 ou GPT-4 rodando localmente) e integrando-o com os sistemas reais do banco.
-
 # Protótipo: Motor de Insights e Narrativas (MIN)
 
 Este projeto é uma demonstração do conceito de um pipeline de dados reimaginado, o **Motor de Insights e Narrativas (MIN)**, para criar mensagens de marketing personalizadas e proativas para clientes de um banco, atuando como um "Conselheiro Financeiro de Bolso".
@@ -62,4 +59,3 @@ Este protótipo pode ser expandido de várias maneiras:
 *   **Substituir o Simulador de IA:** O `generator.py` pode ser conectado a um modelo de linguagem real (open-source ou proprietário) hospedado localmente.
 *   **Integração de Dados Reais:** O `extractor.py` pode ser modificado para se conectar a um banco de dados real.
 *   **Interface Gráfica:** Construir uma interface web (usando frameworks como Flask ou FastAPI) para visualizar os resultados.
-
